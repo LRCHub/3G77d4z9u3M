@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "佐賀事変",
+  "base_artist": "フランシュシュ",
+  "createdAt": "2026-03-22T09:16:31.249321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "佐賀事変",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/01_佐賀事変_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "佐賀事変",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/02_佐賀事変_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "佐賀事変",
+      "artist": "FranChouChou",
+      "has_synced": true,
+      "path": "select/03_佐賀事変_FranChouChou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "佐賀事変",
+      "artist": "フランシュシュ (本渡楓, 田野アサミ, 種田梨沙, 河瀬茉希, 衣川里佳, 田中美海)",
+      "has_synced": true,
+      "path": "select/04_佐賀事変_フランシュシュ_(本渡楓,_田野アサミ,_種田梨沙,_河瀬茉希,_衣川里佳,_田中美海).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "佐賀事変",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/05_佐賀事変_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "佐賀事変 - Sagajihen",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/06_佐賀事変_-_Sagajihen_フランシュシュ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "佐賀事変",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/pl_01_佐賀事変_フランシュシュ.txt"
+    }
+  ]
+}
